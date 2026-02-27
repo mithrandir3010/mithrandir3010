@@ -10,7 +10,6 @@
 ### 🚀 About Me
 - 🎓 **Recent Graduate in Computer Engineering.**
 - 💻 Focusing on **Java, Spring Boot, and Microservices** architecture.
-- 🛠️ Developed a **full-stack Brokerage Firm App** using React & TypeScript.
 - 🧪 Experienced in **Unit Testing** and **Agile** methodologies.
 - 🐳 Proficient in **Docker**, **PostgreSQL**, and **Keycloak** integration.
 
